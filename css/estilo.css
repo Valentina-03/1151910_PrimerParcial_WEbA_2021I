@@ -3,3 +3,48 @@
 	padding: 0;
 	margin: 0;
 }
+
+/*
+	HEADER
+*/
+header img{
+    width: 20%;
+}
+header div h1{
+    display: flex;
+	align-items: center;
+	font-family: fantasy;
+	color: darkblue;
+	font-size: 4.7vw;
+}
+header div p{
+    display: flex;
+   align-items: center;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-style: italic;
+}
+
+/*
+	NAVEGACION
+*/
+
+nav div p{
+    border-right: 1px solid black;
+    display: flex;
+    align-items: center;
+}
+nav .row img{
+    width: 10%;
+    height: 10%;
+}
+
+
+/*
+	FOOTER
+*/
+
+footer div p{
+    border-right: 1px solid black;
+    display: flex;
+    align-items: center;
+}
